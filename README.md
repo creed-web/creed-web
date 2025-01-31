@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @creed-web
-- 👀 I’m interested in web dev, software development and automation 
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in web dev, software development, Robotics and IoT, AI/ML and automation 
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me on gmail varunkumarsaxena26@gmail.com
 .
